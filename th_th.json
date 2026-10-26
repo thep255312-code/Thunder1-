@@ -1,0 +1,22 @@
+{
+  "key.categories.thunderaura": "Thunder Aura",
+  "key.thunderaura.open_wheel": "เปิดวงล้อสกิล",
+  "key.thunderaura.use_skill": "ใช้สกิลที่เลือก",
+  "key.thunderaura.quick_aura": "ด่วน: ออร่าสายฟ้า",
+  "key.thunderaura.quick_strike": "ด่วน: สายฟ้าฟาด",
+  "key.thunderaura.quick_dash": "ด่วน: พุ่งสายฟ้า",
+
+  "skill.thunderaura.aura": "ออร่าสายฟ้า",
+  "skill.thunderaura.strike": "สายฟ้าฟาด",
+  "skill.thunderaura.dash": "พุ่งสายฟ้า",
+  "skill.thunderaura.chain": "สายฟ้าต่อเนื่อง",
+
+  "screen.thunderaura.skill_wheel": "วงล้อสกิล",
+
+  "message.thunderaura.cooldown": "สกิลยังคูลดาวน์อยู่",
+  "message.thunderaura.aura_activated": "เปิดออร่าสายฟ้าแล้ว!",
+  "message.thunderaura.aura_ended": "ออร่าสายฟ้าหายไป",
+  "message.thunderaura.strike": "สายฟ้าฟาด!",
+  "message.thunderaura.dash": "พุ่งสายฟ้า!",
+  "message.thunderaura.selected": "เลือก: %s"
+}

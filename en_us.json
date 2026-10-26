@@ -1,0 +1,22 @@
+{
+  "key.categories.thunderaura": "Thunder Aura",
+  "key.thunderaura.open_wheel": "Open Skill Wheel",
+  "key.thunderaura.use_skill": "Use Selected Skill",
+  "key.thunderaura.quick_aura": "Quick: Thunder Aura",
+  "key.thunderaura.quick_strike": "Quick: Lightning Strike",
+  "key.thunderaura.quick_dash": "Quick: Lightning Dash",
+
+  "skill.thunderaura.aura": "Thunder Aura",
+  "skill.thunderaura.strike": "Lightning Strike",
+  "skill.thunderaura.dash": "Lightning Dash",
+  "skill.thunderaura.chain": "Chain Lightning",
+
+  "screen.thunderaura.skill_wheel": "Skill Wheel",
+
+  "message.thunderaura.cooldown": "Skill is on cooldown",
+  "message.thunderaura.aura_activated": "Thunder Aura activated!",
+  "message.thunderaura.aura_ended": "Thunder Aura faded",
+  "message.thunderaura.strike": "Lightning Strike!",
+  "message.thunderaura.dash": "Lightning Dash!",
+  "message.thunderaura.selected": "Selected: %s"
+}
